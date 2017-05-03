@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidAsk</string>
+    <string name="textView">I am ready to start work!</string>
+    <string name="textButton">Start Task</string>
+</resources>
